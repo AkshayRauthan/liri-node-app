@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Package JSON for Liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshayRauthan/liri-node-app.git"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshayRauthan/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/AkshayRauthan/liri-node-app#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
